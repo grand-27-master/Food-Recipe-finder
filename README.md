@@ -3,7 +3,8 @@
 This allows an user to search for any recipe of his/her choice by just a click!
 
 ## Preview:
-
+<img src="header.png"></img><br><br>
+<img src="card.png"></img><br><br>
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
