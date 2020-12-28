@@ -1,4 +1,7 @@
-# Getting Started with Create React App
+# Food Recipes finder
+
+This allows an user to search for any recipe of his/her choice on just a click!
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
