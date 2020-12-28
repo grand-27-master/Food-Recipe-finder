@@ -1,6 +1,8 @@
 # Food Recipes finder
 
-This allows an user to search for any recipe of his/her choice on just a click!
+This allows an user to search for any recipe of his/her choice by just a click!
+
+## Preview:
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
